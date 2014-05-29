@@ -7,7 +7,7 @@
 - Během ragistrace Vás admin zapíše do whitelistu a vysvětlí vše, co potřebujete znát
 
 <br>
-<strong>Na ragistraci budete potřebovat:</strong><br>
+<strong>Na registraci budete potřebovat:</strong><br>
 - mikrofon
 - přečtená pravidla
 - <strong>screenshot některé ze svých staveb</strong> (nahraném na <a href="http://imgur.com/" target="blank">imgur.com</a>)<br>
