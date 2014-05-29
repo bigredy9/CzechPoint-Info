@@ -1,0 +1,43 @@
+1. Bezpečnost účtu:
+  - Admin po vás NIKDY nebude požadovat heslo
+    - Vydávání-se za člena vedení je přísně trestáno
+
+2. Chování:
+  - Respektujte rozhodnutí vedení (priorita dle vrstev)
+  - Vůči ostatním hráčům se chovejte přátelsky
+  - Snažte se nevyjadřovat vulgárně
+  
+3. Obecné hraní:
+  - Pomocné programy (cheaty) jsou zakázány
+    - to se samozřejmě netýká kalkulaček atd.
+  - Exploitování bugů a bezpečnostních děr je zakázáno
+    - Po nalezení bugu by ho měl hráč oznámit vedení, za což bude odměněn
+  
+4. Těžba:
+  - Těžba surovin je povolena POUZE v těžebním světě, který se obnovuje
+    - Zákaz těžby v hl. světě neplatí pro vlastní sady, zahrady atd.
+  - V těžebním světě není zakázáno stavět / ukládat věci, ovšem nikdo Vám za ně neručí
+    - Po plánované regeneraci těžebního světa Vám smazané věci nikdo neuhradí
+  - Zanechávání korun stromů bez kmenu je zakázáno
+    
+5. Stavba:
+  - Stavba mimo registrovaná města je povolena
+    - Vedení má právo neúhledné stavby mimo registrovaná města smazat bez náhrady materiálu
+  - Stavby v registrovaných městech nebudou mazány, pouze jen v extrémních případech (kostky z cobblu atd.)
+    - Pokud se vedení rozhodne smazat dům ve městě, materiály se navrátí původnímu majiteli (na vyžádání i schematic)
+    
+6. Města:
+  - Oficiální města se nesmí přímo zapojovat do ekonomiky (města postavená adminy v creativu)
+  - Hráčská města musí být regitrována
+    - Registrace města je platná po dohodě s vedením a po splnění pravidel pro založení města (viz. návod pro založení měst)
+    - Starosta města má právo tvořit vlastní pravidla v hranicích města
+      - Městská pravidla jsou platná pouze po kontrole vedením a jejich odsouhlasení
+      - Pravidla musí být vypsána v městské radnici
+      - Těmito pravidly se musí hráč řídit
+  - Zakládání měst bez jejich registrace je proti pravidlům a taková města se budou mazat
+  
+7. Ekonomika:
+  - Každý hráč má právo vytvářet vlastní obchůdky
+    - Obchůdky nesmí být umístěny mimo obchodní oblasti, nebo hráčovu stavbu, která splňuje pravidla z částí 5 a 6
+    
+8. 
