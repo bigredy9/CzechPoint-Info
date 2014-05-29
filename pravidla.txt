@@ -1,4 +1,4 @@
-- Pravidla se mohou kdykoliv měnit!
+Admin tým si vyhrazuje právo pravidla kdykoliv změnit, o změně budou hráči informováni!
 
 1. Bezpečnost účtu:
   - Admin po vás NIKDY nebude požadovat heslo
@@ -8,6 +8,7 @@
   - Respektujte rozhodnutí vedení (priorita dle vrstev)
   - Vůči ostatním hráčům se chovejte přátelsky
   - Snažte se nevyjadřovat vulgárně
+  - je zakázán rasismus a jemu podobné..
   
 3. Obecné hraní:
   - Griefing je samozřejmě proti pravidlům
@@ -42,3 +43,5 @@
 7. Ekonomika:
   - Každý hráč má právo vytvářet vlastní obchůdky
     - Obchůdky nesmí být umístěny mimo obchodní oblasti, nebo hráčovu stavbu, která splňuje pravidla z částí 5 a 6 a pravidla města
+
+
