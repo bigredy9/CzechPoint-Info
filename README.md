@@ -14,7 +14,7 @@ TeamSpeak3:
 ```
 ResourcePack:
   Na serveru používáme "Conquest".
-  Důrazně dopopručujeme si tento ResourcePack stáhnout!
+  Důrazně doporučujeme si tento ResourcePack stáhnout!
   
   Jak to vypadá?
   http://i.imgur.com/MozBICp.jpg
