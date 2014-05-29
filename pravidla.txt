@@ -1,3 +1,5 @@
+- Pravidla se mohou kdykoliv měnit!
+
 1. Bezpečnost účtu:
   - Admin po vás NIKDY nebude požadovat heslo
     - Vydávání-se za člena vedení je přísně trestáno
@@ -8,6 +10,7 @@
   - Snažte se nevyjadřovat vulgárně
   
 3. Obecné hraní:
+  - Griefing je samozřejmě proti pravidlům
   - Pomocné programy (cheaty) jsou zakázány
     - to se samozřejmě netýká kalkulaček atd.
   - Exploitování bugů a bezpečnostních děr je zakázáno
@@ -39,5 +42,3 @@
 7. Ekonomika:
   - Každý hráč má právo vytvářet vlastní obchůdky
     - Obchůdky nesmí být umístěny mimo obchodní oblasti, nebo hráčovu stavbu, která splňuje pravidla z částí 5 a 6
-    
-8. 
