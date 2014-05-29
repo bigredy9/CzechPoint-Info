@@ -1,6 +1,6 @@
 <h1>Jak se připojit ?</h1>
 
-1)Mít nainstalovaný minecraft na verzi která je serverem podporována viz. readme soubor<br />
-2)Přečíst si pravidla serveru<br />
-3)Přijít na TeamSpeak server (viz. readme soubor) kde svámi některý z přítomných adminů provede registraci a zapíše vás na whitelist<br />
-4)Připojit se na server, dodržovat pravidla a užívat si hraní!<br />
+1. Nainstalujte si MineCraft verzi která je serverem podporována (viz. readme soubor)<br>
+2. Přečtěte si <a href="https://github.com/dixi21/CzechPoint-Info/blob/master/pravidla.txt" target="_blank">pravidla serveru</a><br>
+3. Přijděte na TeamSpeak (viz. readme soubor) do místnosti "registrace"<br>
+4. Během ragistrace Vás admin zapíše do whitelistu a vysvětlí vše, co potřebujete znát
