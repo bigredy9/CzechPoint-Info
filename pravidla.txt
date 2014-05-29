@@ -17,7 +17,7 @@
     - Po nalezení bugu by ho měl hráč oznámit vedení, za což bude odměněn
   
 4. Těžba:
-  - Těžba surovin je povolena POUZE v těžebním světě, který se obnovuje
+  - Těžba surovin je povolena POUZE v těžebním světě, který se po určité době mění
     - Zákaz těžby v hl. světě neplatí pro vlastní sady, zahrady atd.
   - V těžebním světě není zakázáno stavět / ukládat věci, ovšem nikdo Vám za ně neručí
     - Po plánované regeneraci těžebního světa Vám smazané věci nikdo neuhradí
@@ -36,9 +36,9 @@
     - Starosta města má právo tvořit vlastní pravidla v hranicích města
       - Městská pravidla jsou platná pouze po kontrole vedením a jejich odsouhlasení
       - Pravidla musí být vypsána v městské radnici
-      - Těmito pravidly se musí hráč řídit
+      - Těmito pravidly se musí hráči uvnitř hranic města řídit
   - Zakládání měst bez jejich registrace je proti pravidlům a taková města se budou mazat
   
 7. Ekonomika:
   - Každý hráč má právo vytvářet vlastní obchůdky
-    - Obchůdky nesmí být umístěny mimo obchodní oblasti, nebo hráčovu stavbu, která splňuje pravidla z částí 5 a 6
+    - Obchůdky nesmí být umístěny mimo obchodní oblasti, nebo hráčovu stavbu, která splňuje pravidla z částí 5 a 6 a pravidla města
