@@ -7,7 +7,6 @@
 - Během ragistrace Vás admin zapíše do whitelistu a vysvětlí vše, co potřebujete znát
 
 <br>
-
 <strong>Na ragistraci budete potřebovat:</strong><br>
 - mikrofon
 - přečtená pravidla
