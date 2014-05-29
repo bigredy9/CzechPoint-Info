@@ -6,6 +6,8 @@
 - Přijděte na TeamSpeak (viz. readme soubor) do místnosti "registrace"<br>
 - Během ragistrace Vás admin zapíše do whitelistu a vysvětlí vše, co potřebujete znát
 
+<br>
+
 <strong>Na ragistraci budete potřebovat:</strong><br>
 - mikrofon
 - přečtená pravidla
