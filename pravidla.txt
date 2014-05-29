@@ -14,7 +14,7 @@
   - Pomocné programy (cheaty) jsou zakázány
     - to se samozřejmě netýká kalkulaček atd.
   - Exploitování bugů a bezpečnostních děr je zakázáno
-    - Po nalezení bugu by ho měl hráč oznámit vedení, za což bude odměněn
+    - Po nalezení bugu je hráč povinen oznámit bug vedení, za což bude odměněn
   
 4. Těžba:
   - Těžba surovin je povolena POUZE v těžebním světě, který se po určité době mění
