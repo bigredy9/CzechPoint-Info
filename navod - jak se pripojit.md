@@ -10,4 +10,4 @@
 <strong>Na ragistraci budete potřebovat:</strong><br>
 - mikrofon
 - přečtená pravidla
-- <strong>screenshot některé ze svých staveb</strong><br>
+- <strong>screenshot některé ze svých staveb</strong> (nahraném na <a href="http://imgur.com/">imgur</a>)<br>
